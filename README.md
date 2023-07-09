@@ -3,27 +3,27 @@
 目标任务：
     无人机从定点起飞，面前有一个模拟的电线杆，即两根柱子+一个电线。电线上某位置挂有一黄色异物，无人机需要巡检整条电线找到异物并拍摄异物图片。然后绕回降落至定点。
 
-![](Docs\detect_pole.jpg)
+![(Docs\detect_pole.jpg)](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/detect_pole.jpg)
 
-![](Docs\capture_tag.jpg)
+![](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/capture_tag.jpg)
 
 ## 方案简介
 
 使用匿名科创拓空者Pro飞控作为主控，加入OPENMV摄像头模块，与飞控双工通信完成任务。
 
-![](Docs\taskflow.jpg)
+![](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/taskflow.jpg)
 
-![](Docs\board_front.png)
+![](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/board_front.png)
 
-![](Docs\board_back.png)
+![](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/board_back.png)
 
 ## 开发现场
 
-![](Docs\debug2.jpg)
+![](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/debug2.jpg)
 
-![](Docs\debug1.jpeg)
+![](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/debug1.jpeg)
 
-![](Docs\drone.jpg)
+![](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/drone.jpg)
 
 ## 日志
 
@@ -54,4 +54,4 @@ bug:
 
 ## 证书
 
-![](Docs\certificate.jpg)
+![](https://github.com/leozjr/2019-Electronics-Design-Contest/blob/master/Docs/certificate.jpg)
